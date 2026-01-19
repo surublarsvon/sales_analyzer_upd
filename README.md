@@ -85,4 +85,4 @@ pip install plotly
 
 ```
 ### Основной интерфейс
-![Главное меню](sales_analyzer_upd/photo.jpg)
+![Главное меню](photo.jpg)
