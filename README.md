@@ -82,4 +82,7 @@ project/
 ###перед запуском убедитесь что plotly установлен 
 ```
 pip install plotly
+
 ```
+### Основной интерфейс
+![Главное меню](sales_analyzer_upd/photo.jpg)
